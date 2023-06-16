@@ -47,6 +47,7 @@ class TodoList {
 }
 
 // DOMContentLoaded event listener
+
 document.addEventListener("DOMContentLoaded", () => {
   const todoList = new TodoList();
 

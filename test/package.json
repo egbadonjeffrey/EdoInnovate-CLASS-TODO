@@ -1,0 +1,19 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "jsdom": "^22.1.0",
+    "mocha": "^10.2.0",
+    "mock-local-storage": "^1.1.24"
+  }
+}
